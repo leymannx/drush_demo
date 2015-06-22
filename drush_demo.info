@@ -1,0 +1,4 @@
+name = Drush Demo
+description = Example module to demonstrate custom drush commands.
+core = 7.x
+package = Custom
